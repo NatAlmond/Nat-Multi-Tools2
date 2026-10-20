@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-yt-dlp
-httpx
-python-multipart
-pydantic
-beautifulsoup4
